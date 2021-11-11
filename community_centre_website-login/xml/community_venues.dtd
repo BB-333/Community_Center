@@ -1,0 +1,15 @@
+<!ELEMENT venueListing (venue+)>
+<!ATTLIST venueListing id CDATA "Community Centre Venues">
+<!ELEMENT venue (name, street, suburb, state, postcode, description, facilityA, facilityB, facilityC, facilityD, facilityE)>
+<!ATTLIST venue id (ArtsHouse|CommunityGym|CommunityLibrary) "CommunityLibrary">
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT suburb (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT postcode (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT facilityA (#PCDATA)>
+<!ELEMENT facilityB (#PCDATA)>
+<!ELEMENT facilityC (#PCDATA)>
+<!ELEMENT facilityD (#PCDATA)>
+<!ELEMENT facilityE (#PCDATA)>

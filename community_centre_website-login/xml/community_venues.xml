@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE venueListing SYSTEM "community_venues.dtd">
+
+<venueListing id="Community Centre Venues">
+    <venue id="ArtsHouse">
+        <name>Arts House</name>
+        <street>123 Main Street</street>
+        <suburb>North City</suburb>
+        <state>ABC</state>
+        <postcode>1234</postcode>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+        <facilityA>Kitchen</facilityA>
+        <facilityB>Bathrooms</facilityB>
+        <facilityC>WIFI</facilityC>
+        <facilityD>AV Equipment</facilityD>
+        <facilityE>Seating</facilityE>
+    </venue>
+    <venue id="CommunityGym">
+        <name>Community Gym</name>
+        <street>123 High Street</street>
+        <suburb>North City</suburb>
+        <state>ABC</state>
+        <postcode>1234</postcode>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+        <facilityA>Changerooms</facilityA>
+        <facilityB>Bathrooms</facilityB>
+        <facilityC>WIFI</facilityC>
+        <facilityD>Kitchenette</facilityD>
+        <facilityE>Lockers</facilityE>
+    </venue>
+    <venue id="CommunityLibrary">
+        <name>Community Library</name>
+        <street>234 High Street</street>
+        <suburb>North City</suburb>
+        <state>ABC</state>
+        <postcode>1234</postcode>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+        <facilityA>Tables</facilityA>
+        <facilityB>Bathrooms</facilityB>
+        <facilityC>WIFI</facilityC>
+        <facilityD>AV Equipment</facilityD>
+        <facilityE>Seating</facilityE>
+    </venue>
+</venueListing>

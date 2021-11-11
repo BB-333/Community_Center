@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<eventListing 
+xmlns="http://www.communitycentre.com/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.communitycentre.com/ community_events.xsd">
+    <event>
+        <title>Yoga</title>
+        <category>Health</category>
+        <venue>Community Gym</venue>
+        <startDate>2022-01-10</startDate>
+        <endDate>2022-03-10</endDate>
+        <startTime>18:00:00</startTime>
+        <endTime>19:00:00</endTime>
+        <cost>100.00</cost>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+    </event>
+    <event>
+        <title>Life Drawing</title>
+        <category>Arts</category>
+        <venue>Arts House</venue>
+        <startDate>2022-01-10</startDate>
+        <endDate>2022-03-10</endDate>
+        <startTime>13:00:00</startTime>
+        <endTime>14:00:00</endTime>
+        <cost>100.00</cost>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+    </event>
+    <event>
+        <title>Chess Club</title>
+        <category>Social</category>
+        <venue>Community Library</venue>
+        <startDate>2022-01-10</startDate>
+        <endDate>2022-03-10</endDate>
+        <startTime>15:00:00</startTime>
+        <endTime>16:00:00</endTime>
+        <cost>0.00</cost>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+    </event>
+    <event>
+        <title>Homework Club</title>
+        <category>Community</category>
+        <venue>Community Library</venue>
+        <startDate>2022-01-10</startDate>
+        <endDate>2022-03-10</endDate>
+        <startTime>15:45:00</startTime>
+        <endTime>17:00:00</endTime>
+        <cost>0.00</cost>
+        <description>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</description>
+    </event>
+</eventListing>
